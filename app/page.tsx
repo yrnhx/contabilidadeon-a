@@ -53,7 +53,7 @@ export default function Home() {
                 className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg"
                 asChild
               >
-                <Link href="https://wa.me/5567984547415?text=Olá,%20gostaria%20de%20agendar%20uma%20consulta%20gratuita">
+                <Link href="https://wa.me/556784547416?text=Olá,%20gostaria%20de%20agendar%20uma%20consulta%20gratuita">
                   Falar com especialista
                 </Link>
               </Button>
@@ -204,7 +204,8 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-gray-600 leading-relaxed">
-                    Cuidamos de toda a folha de pagamento, benefícios, obrigações trabalhistas, eSocial e rotinas de RH, garantindo conformidade legal e mais eficiência para o seu Departamento Pessoal.
+                    Cuidamos de toda a folha de pagamento, benefícios, obrigações trabalhistas, eSocial e rotinas de RH,
+                    garantindo conformidade legal e mais eficiência para o seu Departamento Pessoal.
                   </CardDescription>
                 </CardContent>
               </Card>
@@ -530,7 +531,7 @@ export default function Home() {
                 className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 px-8 py-4 text-lg font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg"
                 asChild
               >
-                <Link href="https://wa.me/5567984547415?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20Onça%20Contabilidade">
+                <Link href="https://wa.me/556784547416?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20Onça%20Contabilidade">
                   Fale Conosco
                 </Link>
               </Button>
@@ -540,7 +541,7 @@ export default function Home() {
                 className="border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 text-lg bg-transparent transition-all duration-300 hover:scale-105"
                 asChild
               >
-                <Link href="tel:+5567984547415">Ligar Agora</Link>
+                <Link href="tel:+556784547416">Ligar Agora</Link>
               </Button>
             </div>
           </div>
@@ -552,7 +553,7 @@ export default function Home() {
 
       <div className="fixed bottom-6 right-6 z-50">
         <Link
-          href="https://wa.me/5567984547415?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20Onça%20Contabilidade"
+          href="https://wa.me/556784547416?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20Onça%20Contabilidade"
           className="bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 flex items-center justify-center group"
           target="_blank"
           rel="noopener noreferrer"
