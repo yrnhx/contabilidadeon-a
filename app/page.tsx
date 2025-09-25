@@ -204,8 +204,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-gray-600 leading-relaxed">
-                    Cuidamos de toda a folha de pagamento, benefícios, obrigações trabalhistas, eSocial e rotinas de RH,
-                    garantindo conformidade legal e mais eficiência para o seu Departamento Pessoal.
+                    Cuidamos de toda a folha de pagamento, benefícios, obrigações trabalhistas, eSocial e rotinas de Departamento Pessoal. Garantimos conformidade legal e mais eficiência para o seu negócio.
                   </CardDescription>
                 </CardContent>
               </Card>
@@ -248,8 +247,8 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-gray-600 leading-relaxed">
-                    Análise financeira, controles internos, fluxo de caixa e orientação estratégica para crescimento
-                    sustentável.
+                    Análise financeira, controles internos, fluxo de caixa e orientação estratégica para o crescimento
+                    de sua empresa.
                   </CardDescription>
                 </CardContent>
               </Card>
